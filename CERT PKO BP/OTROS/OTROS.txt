@@ -1,0 +1,1 @@
+[hostname:value = 'lnpost.transpvrot239.cfd'],"2025-09-10T11:00:08.000Z","CERT PKO BP"
